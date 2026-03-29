@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Hi there, I'm Ankush Kumar , A Computer Science student passionate about building impactful software and exploring AI.<br>🔭 I’m currently Pursuing B.Tech( C.S.E) <br>🤝 GURU KASHI UNIVERSITY | Learned HTML , CSS , C | <br>🌱 I’m currently learning in C++ , DSA in JAVA , ETHICAl HACKING <br>⚡ Future in Full Stack Development
+💬 Hi there, I'm Ankush Kumar , A Computer Science student passionate about building impactful software and exploring AI.<br>🔭 I’m currently Pursuing B.Tech(C.S.E) <br>🤝 GURU KASHI UNIVERSITY | Learned HTML , CSS , C | <br>🌱 I’m currently learning in C++ , DSA in JAVA , ETHICAl HACKING <br>⚡ Future in Full Stack Development
 
 
 ## 🌐 Socials:
